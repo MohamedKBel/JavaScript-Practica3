@@ -6,6 +6,5 @@ function esPar(num) {
     } 
 }
 
-esPar(4);
-esPar(7);
-esPar(18);
+
+esPar(Number(prompt("Introduce un numero y te dire si es par o impar")));
